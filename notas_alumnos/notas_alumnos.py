@@ -5,17 +5,23 @@ Guarda la información en un diccionario cuya claves serán los nombres de los a
 El programa pedirá el número de alumnos que vamos a introducir, pedirá su nombre e irá pidiendo sus notas hasta que introduzcamos un número negativo.
 Al final el programa nos mostrará la lista de alumnos y la nota media obtenida por cada uno de ellos.
 Nota: si se introduce el nombre de un alumno que ya existe el programa nos dará un error."""
-cantidad_alumnos = input("Introduce la cantidad de alumnos que deseas ingresar: ") #se pide la cantidad de alumnos
-alumnos = {}  #se declara un diccionario vacio
+
+cantidad_alumnos = int(input("Introduce la cantidad de alumnos: "))  # se pide la cantidad de alumnos
+alumnos = {}  # se crea el diccionario
 
 for x in cantidad_alumnos:
-    nombre_alumno = input("Introduce el NOMBRE del alumno: ")  #se pide el nombre del alumno
-    alumnos[nombre_alumno] = []  #se agrega el nombre del alumno al diccionario
+    nombre_alumno = input("Introduce el NOMBRE del alumno: ")  # se pide el nombre del alumno
+    alumnos[nombre_alumno] = []  # se agrega el nombre del alumno al diccionario
     while True:
         nota = int(input("Introduce la NOTA del alumno: \n(Para salir ingrese un numero negativo)"))
         if nota < 0:
             break
-        alumnos[nombre_alumno].append(nota)  #se agrega la nota al diccionario
+    if nombre_alumno in alumnos:
+        print("El alumno ya existe")
+    else:
+
+
+        alumnos[nombre_alumno].append(nota)  # se agrega la nota al diccionario
 
 
 
