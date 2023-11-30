@@ -5,10 +5,147 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59206612-370b-4974-a155-70e5e3e4faaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notas_alumnos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/.idea/Areas_cuadrado_triangulo_circulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Areas_cuadrado_triangulo_circulo/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadena/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadena/.idea/Cadena.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadena/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadena/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadena/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadena/Cadena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/Diccionario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diccionario/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/.idea/ºf aºc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fahrenheit a celsius/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/FizzBuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzz/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/.idea/Libros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libros/Libros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/.idea/Ejercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lista aleatoria cuadrados y cubos/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/Listas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/Listas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media/media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notas_alumnos2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notas_alumnos2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/.idea/EDC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/.idea/Operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operadores/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimetro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimetro/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimetro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimetro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimetro/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Perimetro/Perimetro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo_traslado/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo_traslado/.idea/Tiempo_traslado.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo_traslado/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo_traslado/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo_traslado/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo_traslado/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/.idea/Tuplas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuplas/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/.idea/Cadena de caracteres.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cadena_de_caracteres/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/.idea/lista aleatoria en clase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista aleatoria en clase/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/.idea/notas_alumno.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumno/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/notas_alumnos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notas_alumnos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumnos2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumnos2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumnos2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumnos2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumnos2/.idea/notas_alumnos2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notas_alumnos2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/.idea/Ejercicio_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numeros_enteros_y_reales/numeros_enteros_y_reales.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +164,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/cuauhtemoccatano/Library/Mobile Documents/com~apple~CloudDocs/Código /Python/Python/notas_alumnos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="notas_alumnos" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="notas_alumnos" />
@@ -74,6 +212,7 @@
       <updated>1694113781272</updated>
       <workItem from="1694113790063" duration="1405000" />
       <workItem from="1694277343080" duration="287000" />
+      <workItem from="1697510687139" duration="36000" />
     </task>
     <servers />
   </component>
